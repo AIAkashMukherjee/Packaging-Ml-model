@@ -1,0 +1,10 @@
+# Model Buliding Requirements
+
+numpy
+pandas
+scikit-learn
+scipy
+joblib
+setuptools
+wheel
+
